@@ -1,2 +1,2 @@
 # First-Repository
-first time i github
+first time in github
